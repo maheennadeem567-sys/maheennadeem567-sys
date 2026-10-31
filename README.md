@@ -127,6 +127,11 @@ A mobile app that offers solutions to everyday problems faced in towns and citie
 ---
 
 ## 📫 Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maheennadeem567-sys&background=0D1117&border=EC4899&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakNum=F9A8D4&sideNums=F9A8D4&currStreakLabel=EC4899&sideLabels=C4B5FD&dates=DDD6FE" alt="GitHub streak stats" />
+</div>
 
 <div align="center">
 
